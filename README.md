@@ -23,14 +23,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>
+<br/>
 <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"/>
 
-<h3>🔖 My history 🔖</h3>
+<h3>🔖 Contact 🔖</h3>
 <a href="https://danielit.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://danielit.tistory.com/"/></a>
-<a href="mailto:yjjeon125@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjjeon125@gmail.com"/></a>
+<a href="mailto:yjjeon125@gmail.com"><img src="https://img.shields.io/badge/yjjeon125@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yjjeon125@gmail.com"/></a>
 </div>
