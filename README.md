@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&fontSize=70)
 
+![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6NCwibW91dGgiOjEsImV5ZXMiOjcsImV5ZWJyb3dzIjoxMSwiZ2xhc3NlcyI6MCwiaGFpciI6MTAsImFjY2Vzc29yaWVzIjoxMywiZGV0YWlscyI6NSwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
 
 <h3>🔖 Tech Experience 🔖</h3>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>  
