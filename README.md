@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20&fontSize=70)
+</div>
 
-![notion avatar](https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6NCwibW91dGgiOjEsImV5ZXMiOjcsImV5ZWJyb3dzIjoxMSwiZ2xhc3NlcyI6MCwiaGFpciI6MTAsImFjY2Vzc29yaWVzIjoxMywiZGV0YWlscyI6NSwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoiI2JmYmZiZiIsInNoYXBlIjoibm9uZSJ9)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bruno+Ace&pause=1000&width=350&height=40&lines=Hi+There%F0%9F%91%8B+I%60m+Yeongje+Jeon)](https://git.io/typing-svg)
+
+</div>
+<div align="center">
 <h3>🔖 Tech Experience 🔖</h3>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>  
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=black"/>
