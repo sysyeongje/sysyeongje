@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=PowerShell&logoColor=white"/>
 
